@@ -47,7 +47,7 @@ patches:
   patch: |-
     - op: add
       path: /spec/source/repoURL
-      value: https://github.com/vbudi-b2bi-pem/multi-tenancy-gitops-infra.git
+      value: https://github.com/vbudi-b2bi-pem-002/multi-tenancy-gitops-infra.git
     - op: add
       path: /spec/source/targetRevision
       value: master
